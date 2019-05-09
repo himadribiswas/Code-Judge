@@ -1,0 +1,5 @@
+submissions\sreyash\problem5.java:1: error: class, interface, or enum expected
+print("Hello")
+^
+1 error
+Error: Could not find or load main class problem5

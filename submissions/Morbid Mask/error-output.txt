@@ -1,0 +1,15 @@
+'submissions\Morbid' is not recognized as an internal or external command,
+operable program or batch file.
+'submissions\Morbid' is not recognized as an internal or external command,
+operable program or batch file.
+'submissions\Morbid' is not recognized as an internal or external command,
+operable program or batch file.
+'submissions\Morbid' is not recognized as an internal or external command,
+operable program or batch file.
+Error: Could not find or load main class Mask
+Error: Could not find or load main class Mask
+'submissions\Morbid' is not recognized as an internal or external command,
+operable program or batch file.
+'submissions\Morbid' is not recognized as an internal or external command,
+operable program or batch file.
+Error: Could not find or load main class Mask

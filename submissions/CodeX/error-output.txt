@@ -1,0 +1,8 @@
+submissions/CodeX/problem2.cpp:1:1: error: 'import' does not name a type
+ import java.util.Scanner;
+ ^~~~~~
+submissions/CodeX/problem2.cpp:3:1: error: expected unqualified-id before 'public'
+ public class problem1 {
+ ^~~~~~
+'submissions\CodeX\problem2.exe' is not recognized as an internal or external command,
+operable program or batch file.
